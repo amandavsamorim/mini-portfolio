@@ -6,8 +6,7 @@
 ---
 ## :framed_picture: Imagens do Projeto
 
-![imagem-projeto-final](signIN.png)
-![imagem-projeto-final](signUP.png)
+![imagem-projeto-final](mini-portfolio.png)
 
 ---
 ## :woman_technologist:  Autora
