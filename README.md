@@ -2,7 +2,7 @@
 
 ## :page_facing_up: Sobre o Projeto
 - Este projeto trata-se de um mini portfólio que foi desenvolvido como parte da MapaDev Week - evento feito pela [Dev em Dobro](https://github.com/devemdobro) em outubro de 2022.
-- Criado em 22/09/2022
+- Criado em 16/10/2022
 ---
 ## :framed_picture: Imagens do Projeto
 
